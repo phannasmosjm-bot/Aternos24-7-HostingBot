@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VannThai9994.aternos.me:19716",
+    "ip": "VannThai9994.aternos.me", 
     "port": 19716,
     "version": "",
     "try-creative": false
